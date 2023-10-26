@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Erika (@DancesWChickens)
 - 👀 I’m interested in all things data, SQL, and Python.
-- 🌱 I’m currently learning Databricks, Spark SQL and Django.
+- 🌱 I’m currently learning pillow, tesseract and openCV.
 - 📫 How to reach me ...https://www.linkedin.com/in/erikabricker/
 - :page_with_curl: Here's my resume. https://danceswchickens.github.io/CV/
 - :computer: Check out my Data Science with Python Portfolio of projects https://github.com/DancesWChickens/Data-Science-with-Python-Portfolio
